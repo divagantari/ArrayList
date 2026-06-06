@@ -16,3 +16,4 @@ public class Latihan1 {
      System.out.println("Jumlah nilai:" + nilai.length);
  }   
 }
+// Selesai

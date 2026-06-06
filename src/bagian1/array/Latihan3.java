@@ -33,3 +33,4 @@ public class Latihan3 {
         System.out.println("Jumlah angka genap: " + count);
 }
 }
+// Selesai

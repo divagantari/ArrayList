@@ -19,3 +19,4 @@ public class Latihan2 {
     }
     
 }
+// Selesai
