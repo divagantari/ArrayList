@@ -1,4 +1,4 @@
-public class Latihan3 {
+public class LatihanMandiriArray {
     public static void main(String[] args) {
         double[] suhu = {25.5, 28.0, 22.3, 30.1, 26.7, 24.0};
         double max = suhu[0];
